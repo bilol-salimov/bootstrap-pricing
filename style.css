@@ -1,0 +1,13 @@
+.container-fluid {
+    padding: 0 30px;
+}
+.cards {
+    gap: 30px;
+}
+.card p {
+    line-height: 0.4;
+}
+
+thead tr, tbody tr:nth-child(2) {
+    border-bottom: 1px solid #000;
+}
